@@ -1,0 +1,2 @@
+2020-03-17 17:46:38: . 'users:init' with data '"C:\\OSPanel\\domains\\event.bus.loc\/users.csv"
+2020-03-17 17:46:38: . 'users:created' with data '{"attributes":{"name":"John Smith","email":"john@example.com","id":"a790266a85a651c580338b65f0d606d2"}}
